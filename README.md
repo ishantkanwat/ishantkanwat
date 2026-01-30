@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student of Mechanical Engineering at IIT BHU Varanasi<br>Currently working on Formula student Vehicle with Society of Mechanical Engineering IIT BHU<br>also working on an highly efficient electric vehicle for Shell Eco Marathon with Team AVERERA, India<br>I am looking to collaborate with any Tech institution <br>Trying to get into machine learning<br>I have a little experience in C, C++ and also a little in Python<br>Fun Fact : I am still trying to figure out about what should I actually prefer like Should go on with Mechanical core with some taste Machine Learning <br>or should i start learning SDE or may DA/DS like everyone else<br><br><br><br>
+A student of Mechanical Engineering at IIT BHU Varanasi<br>Currently working on Formula student Vehicle with Society of Mechanical Engineering IIT BHU<br>also working on an highly efficient electric vehicle for Shell Eco Marathon with Team AVERERA, India<br>I am looking to collaborate with any Tech institution <br>Trying to get into machine learning<br>I have a little experience in C, C++ and also a little in Python<br>Fun Fact: Trying to figure out about what should I actually prefer like Should I go on with Mechanical core with some taste Machine Learning <br>or should i start learning SDE or may DA/DS like everyone else<br><br><br><br>
 
 
 ## 🌐 Socials:
